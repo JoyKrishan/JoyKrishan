@@ -1,47 +1,59 @@
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/nPCNWmIOcZny6Vfksa/giphy.gif" width="200"/>
-</div>
-
-<div id="badges" align="center">
-<a href="your-linkedin-URL">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
- <a href="">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
- </a>
- <a href="https://scholar.google.com/citations?user=QxAODxAAAAAJ&hl=en">
-  <img src="https://img.shields.io/badge/Scholar-blue?style=plastic&logo=GoogleScholar&logoColor=white" alt="Scholar Badge"/>
- </a>
- <a href="https://www.researchgate.net/profile/Joy-Das-7">
-  <img src="https://img.shields.io/badge/ResearchGate-green?style=plastic&logo=ResearchGate&logoColor=white" alt="Scholar Badge"/>
- </a>
- </a>
- <a href="https://joykrishan.github.io/">
-  <img src="https://img.shields.io/badge/Website-red?style=plastic&logo=data:favicon.ico&logoColor=white" alt="Scholar Badge"/>
- </a>
-
-</div>
-<div id="profile-views" align="center">
+<div id="profile-views">
   <img src="https://komarev.com/ghpvc/?username=JoyKrishan&style=flat&color=blue" alt=""/>
 </div>
 
-<div id="welcome" align="center">
+
+<table>
+<tr>
+</tr>
+<tr>
+<td>
 <header>
    <h3> Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
 </head>
-</div>
 
-I am a Software Engineer, QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Therap(BD) Ltd.
-- :telescope:
 
-- :seedling: 
+I am a Joy Krishan , QA  at Therap(BD) Ltd. I am a Software Engineer, QA <img Hi there,
+I am Joy Krishan Das residing in Dhaka, Bangladesh :house:. I graduated from BRAC University :school: in 2020 (during the horrifying times of COVID-19). After that, I explored multiple professions, and I am currently working as Software Engineer, QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Therap (BD) Ltd. I adore learning :sparkles:, and it is my mind's antiaging method. Furthermore, I like to read and research machine learning, signal processing, and natural language processing. :100:
 
-- :zap:
+- :telescope: Currently learning web tech (django), android development (Flutter)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :seedling: Looking forward to collaborate on interesting projects
 
+- :zap: Exploring how to bridge machine learning and functional software testing (Pytorch)
+
+- :mailbox:How to reach me: joykrishan10@gmail.com | joy.krishan@therapservices.net
+
+
+</td>
+<td>
+
+<div id="header" align="center">
+      <img src="https://media.giphy.com/media/nPCNWmIOcZny6Vfksa/giphy.gif" width="200"/>
+      </div>
+      <div id="badges" align="center">
+        <a href="https://www.linkedin.com/in/joy-krishan-das-463475167/">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+         </a>
+         <a href="https://twitter.com/Joykrishan10">
+          <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+         </a>
+         <a href="https://scholar.google.com/citations?user=QxAODxAAAAAJ&hl=en">
+          <img src="https://img.shields.io/badge/Scholar-blue?style=plastic&logo=GoogleScholar&logoColor=white" alt="Scholar Badge"/>
+         </a>
+         <a href="https://www.researchgate.net/profile/Joy-Das-7">
+          <img src="https://img.shields.io/badge/ResearchGate-green?style=plastic&logo=ResearchGate&logoColor=white" alt="Scholar Badge"/>
+         </a>
+         </a>
+         <a href="https://joykrishan.github.io/">
+          <img src="https://img.shields.io/badge/Website-red?style=plastic&logo=data:favicon.ico&logoColor=white" alt="Scholar Badge"/>
+         </a>
+
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,7 +73,20 @@ I am a Software Engineer, QA <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### :fire: My Stats :
 
+<table>
+<tr>
+</tr>
+<tr>
+<td>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoyKrishan&theme=python-dark&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+
+</td>
+<td>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyKrishan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+</tr>
+</table>
