@@ -14,7 +14,6 @@
 </head>
 
 
-I am a Joy Krishan , QA  at Therap(BD) Ltd. I am a Software Engineer, QA <img Hi there,
 I am Joy Krishan Das residing in Dhaka, Bangladesh :house:. I graduated from BRAC University :school: in 2020 (during the horrifying times of COVID-19). After that, I explored multiple professions, and I am currently working as Software Engineer, QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Therap (BD) Ltd. I adore learning :sparkles:, and it is my mind's antiaging method. Furthermore, I like to read and research machine learning, signal processing, and natural language processing. :100:
 
 - :telescope: Currently learning web tech (django), android development (Flutter)
