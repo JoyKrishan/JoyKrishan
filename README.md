@@ -70,22 +70,5 @@ I am Joy Krishan Das residing in Dhaka, Bangladesh :house:. I graduated from BRA
 
 ---
 
-### :fire: My Stats :
-
-<table>
-<tr>
-</tr>
-<tr>
-<td>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoyKrishan&theme=python-dark&hide_border=true&border_radius=0)](https://git.io/streak-stats)
-
-</td>
-<td>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyKrishan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
 </tr>
 </table>
