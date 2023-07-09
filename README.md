@@ -1,4 +1,3 @@
-
 <div id="profile-views">
   <img src="https://komarev.com/ghpvc/?username=JoyKrishan&style=flat&color=blue" alt=""/>
 </div>
