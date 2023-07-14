@@ -19,8 +19,6 @@ I am Joy Krishan Das residing in Dhaka, Bangladesh :house:. I graduated from BRA
 
 - :seedling: Looking forward to collaborate on interesting projects
 
-- :zap: Exploring how to bridge machine learning and functional software testing (Pytorch)
-
 - :mailbox:How to reach me: joykrishan10@gmail.com | joy.krishan@therapservices.net
 
 
