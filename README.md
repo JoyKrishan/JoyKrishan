@@ -21,7 +21,7 @@ I hold a degree from BRAC University 🏛️, where I graduated with the highest
 
 I am open to collaborations and contributions to projects that aim to improve and simplify daily life. Please feel free to contact me via email for any potential collaborations. I am eager to be part of initiatives that make life better and more convenient.
 
-- :mailbox:How to reach me: joykrishan10@gmail.com | joy.krishan@therapservices.net
+- :mailbox:How to reach me: joykrishan10@gmail.com | joy.das@usask.ca
 
 
 </td>
