@@ -13,11 +13,13 @@
 </head>
 
 
-I am Joy Krishan Das residing in Dhaka, Bangladesh :house:. I graduated from BRAC University :school: in 2020 (during the horrifying times of COVID-19). After that, I explored multiple professions, and I am currently working as Software Engineer, QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Therap (BD) Ltd. I adore learning :sparkles:, and it is my mind's antiaging method. Furthermore, I like to read and research machine learning, signal processing, and natural language processing. :100:
+I am a Graduate Student (MSc) 🧑‍🎓 currently engaged in software research at the University of Saskatchewan 🏛️. My research focuses on enhancing the software maintenance life cycle through reducing code clones, predicting code proneness, and implementing automatic code repair using LLMs. 😃
 
-- :telescope: Currently learning web tech (django), android development (Flutter)
+My prior role as a Software Engineer, QA at Therap BD Ltd 🏗️, equipped me with a diverse skill set, including various testing methodologies and the development of automated test scripts to optimize quality assurance workflows. 
 
-- :seedling: Looking forward to collaborate on interesting projects
+I hold a degree from BRAC University 🏛️, where I graduated with the highest distinction 🥇. During my academic journey, I undertook personal projects using Java and Python, exploring topics like database management, networking, and compiler development.
+
+I am open to collaborations and contributions to projects that aim to improve and simplify daily life. Please feel free to contact me via email for any potential collaborations. I am eager to be part of initiatives that make life better and more convenient.
 
 - :mailbox:How to reach me: joykrishan10@gmail.com | joy.krishan@therapservices.net
 
