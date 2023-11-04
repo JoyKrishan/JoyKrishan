@@ -13,7 +13,7 @@
 </head>
 
 
-I am a Graduate Student (MSc) 🧑‍🎓 currently engaged in software research at the University of Saskatchewan 🏛️. My research focuses on enhancing the software maintenance life cycle through reducing code clones, predicting code proneness, and implementing automatic code repair using LLMs. 😃
+I am a Graduate Student (MSc) 🧑‍🎓 currently engaged in software research at the University of Saskatchewan 🏛️. My research focuses on enhancing the software maintenance life cycle through reducing code clones, predicting code change proneness, and implementing automatic code repair using LLMs. 😃
 
 My prior role as a Software Engineer, QA at Therap BD Ltd 🏗️, equipped me with a diverse skill set, including various testing methodologies and the development of automated test scripts to optimize quality assurance workflows. 
 
