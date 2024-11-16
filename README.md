@@ -25,7 +25,7 @@ My academic and research interests include exploring innovative solutions to enh
 <td>
 
 <div id="header" align="center">
-      <img src="https://github.com/JoyKrishan/JoyKrishan/blob/main/stare.png" width="500"/>
+      <img src="https://github.com/JoyKrishan/JoyKrishan/blob/main/stare.png" width="400"/>
       </div>
       <div id="badges", align="center">
         <a href="https://www.linkedin.com/in/joy-krishan-das-463475167/">
