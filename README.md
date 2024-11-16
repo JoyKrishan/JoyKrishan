@@ -25,20 +25,19 @@ My academic and research interests include exploring innovative solutions to enh
 <td>
 
 <div id="header" align="center">
-      <img src="https://github.com/JoyKrishan/JoyKrishan/blob/main/stare.png" width="200"/>
+      <img src="https://github.com/JoyKrishan/JoyKrishan/blob/main/stare.png" width="500"/>
       </div>
-      <div id="badges" align="center">
+      <div id="badges", align="center">
         <a href="https://www.linkedin.com/in/joy-krishan-das-463475167/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-         </a>
+         </a> 
          <a href="https://twitter.com/Joykrishan10">
           <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-         </a>
+         </a>  
          <a href="https://scholar.google.com/citations?user=QxAODxAAAAAJ&hl=en">
           <img src="https://img.shields.io/badge/Scholar-blue?style=plastic&logo=GoogleScholar&logoColor=white" alt="Scholar Badge"/>
          </a>
-
-
+</div>
 </td>
 </tr>
 </table>
