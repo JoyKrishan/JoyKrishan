@@ -37,13 +37,6 @@ My academic and research interests include exploring innovative solutions to enh
          <a href="https://scholar.google.com/citations?user=QxAODxAAAAAJ&hl=en">
           <img src="https://img.shields.io/badge/Scholar-blue?style=plastic&logo=GoogleScholar&logoColor=white" alt="Scholar Badge"/>
          </a>
-         <a href="https://www.researchgate.net/profile/Joy-Das-7">
-          <img src="https://img.shields.io/badge/ResearchGate-green?style=plastic&logo=ResearchGate&logoColor=white" alt="Scholar Badge"/>
-         </a>
-         </a>
-         <a href="https://joykrishan.github.io/">
-          <img src="https://img.shields.io/badge/Website-red?style=plastic&logo=data:favicon.ico&logoColor=white" alt="Scholar Badge"/>
-         </a>
 
 
 </td>
