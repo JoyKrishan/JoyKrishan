@@ -19,8 +19,6 @@ I completed my undergraduate degree 🧑‍🎓 with the highest distinction fro
 My academic and research interests include exploring innovative solutions to enhance and streamline the software development lifecycle. I welcome opportunities for collaboration on projects aligned with these goals.
 
 :mailbox: Feel free to reach out to me via email for potential collaborations: joykrishan10@gmail.com | joy.das@usask.ca
-
-
 </td>
 <td>
 
