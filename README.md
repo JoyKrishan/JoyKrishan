@@ -10,9 +10,9 @@
    <h3> Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
 </head>
 
-I am a master's student (MSc) at the University of Saskatchewan, affiliated with the Software Research Lab 💻.
+I am a master's student (MSc) at the University of Saskatchewan, affiliated with the Software Research Lab💻.
 
-My current research interests include mining software repositories 🔦, empirical software engineering 🔍, and program analysis 🔨. 
+My current research interests include mining software repositories🔦, empirical software engineering🔍, and program analysis🔨. 
 
 :mailbox: Please reach out to me via email for any potential collaborations/opportunities to contribute to the SE community: joykrishan10@gmail.com | joy.das@usask.ca
 </td>
